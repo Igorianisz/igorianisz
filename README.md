@@ -1,21 +1,13 @@
-<div>
-  <h1>Hola, soy Igor Ianiszewski 👋</h1>
-
-  <div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
-      <h2>👨‍💻 Sobre Mí</h2>
-      <ul>
-        <li>🏠  Santiago de Chile</li>
-        <li>💼 Desarrollador fullstack</li>
-        <li>🎓 Ingeniero Civil Industrial</li>
-        <li>🌱 Profundizando en prompts y Python</li>
-      </ul>
-    </div>
-    <div style="margin-left: 20px;">
-      <img width="200" src="assets/1736123357395.png" alt="Foto de perfil" />
-    </div>
-  </div>
+<div align="center">
+  <img width="300" height="300" src="assets/1736123357395.png" alt="Foto de perfil" style="border-radius: 50%; object-fit: cover;" />
 </div>
+
+# <div align="center">Hola, soy Igor Ianiszewski 👋</div>
+
+- 🏠 Santiago de Chile
+- 💼 Desarrollador fullstack
+- 🎓 Ingeniero Civil Industrial
+- 🌱 Profundizando en prompts y Python
 
 ## 🚀 Lo Que Hago
 
@@ -129,12 +121,20 @@ Adaptativamente es una plataforma educativa especializada en contenido matemáti
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/>
 </p>
 
-## 📊 Estadísticas de GitHub
+<!-- ## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorianisz&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorianisz&theme=radical&locale=es" alt="Racha de GitHub" />
-</p>
+</p> -->
+
+## 💻 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/Igorianisz/proyectoDLAT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=igorianisz&repo=proyectoDLAT&theme=radical" alt="ProyectoDLAT" />
+  </a>
+</div>
 
 ## 🤝 ¡Conectemos!
 
