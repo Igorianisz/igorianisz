@@ -1,7 +1,5 @@
 <div align="center">  
-  <picture>
-    <img width="300" height="300" src="assets/1736123357395.png" alt="Foto de perfil" style="border-radius: 50%; object-fit: cover;" />  
-  </picture>
+    <img width="300" height="300" src="assets/1736123357395.png" alt="Foto de perfil" />  
 </div>
 
 # <div align="center">Hola, soy Igor Ianiszewski 👋</div>
